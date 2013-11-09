@@ -2,13 +2,6 @@
 <poster>Demon88</poster>
 <fanart></fanart>
 #######################################################################################################################################
-<popup>
-<name>[COLOR=FF00CCFF]First visit? Please Click Here !![/COLOR]</name>
-<popImage>http://i.imgur.com/SQHNl4w.gif</popImage>
-<thumbnail>http://i.imgur.com/SQHNl4w.gif</thumbnail>
-</popup>
-
-#######################################################################################################################################
 <name>1080P HD Movies</name>
 <link>https://raw.github.com/mash2k3/demon88/master/1080pMovies%20.xml</link>
 <thumbnail>http://tasel.files.wordpress.com/2012/04/logo-full-hd8-r-10683-3.jpg</thumbnail>
@@ -20,6 +13,14 @@
 <link>https://raw.github.com/mash2k3/demon88/master/720pMovies.xml</link>
 <thumbnail>http://thewalkingdeadpodcast.com/wp-content/uploads/2010/07/hd-logo3.jpg</thumbnail>
 <date>DAILY</date>
+
+
+#######################################################################################################################################
+<popup>
+<name>[COLOR=FF00CCFF]First visit? Please Click Here !![/COLOR]</name>
+<popImage>http://i.imgur.com/SQHNl4w.gif</popImage>
+<thumbnail> </thumbnail>
+</popup>
 
 
 #######################################################################################################################################
