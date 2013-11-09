@@ -9,6 +9,13 @@
 
 
 #######################################################################################################################################
+<name>720P HD movies</name>
+<link>https://raw.github.com/mash2k3/demon88/master/720pMovies.xml</link>
+<thumbnail>http://thewalkingdeadpodcast.com/wp-content/uploads/2010/07/hd-logo3.jpg</thumbnail>
+<date>DAILY</date>
+
+
+#######################################################################################################################################
 <info>
 <message>[COLOR=FF67cc33]Find me on XunityTalk.com to report dead links[/COLOR]</message>
 <thumbnail> </thumbnail>
@@ -16,7 +23,7 @@
 
 #######################################################################################################################################
 <popup>
-<name>First Visit? Please Click Here !!</name>
+<name>First visit? Please Click Here !!</name>
 <popImage>http://i.imgur.com/SQHNl4w.gif</popImage>
 <thumbnail> </thumbnail>
 </popup>
